@@ -1,0 +1,19 @@
+{
+  "name": "fullstackproject",
+  "version": "1.0.0",
+  "description": "A complete Youtube project we will created by MERN.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fullstack",
+    "Project",
+    "Chai",
+    "aur",
+    "code",
+    "MERN"
+  ],
+  "author": "Nandan Pandit",
+  "license": "ISC"
+}
