@@ -2,9 +2,10 @@
   "name": "fullstackproject",
   "version": "1.0.0",
   "description": "A complete Youtube project we will created by MERN.",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "fullstack",
@@ -15,5 +16,8 @@
     "MERN"
   ],
   "author": "Nandan Pandit",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
 }
